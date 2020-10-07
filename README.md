@@ -1,0 +1,1 @@
+This is Hip Cat's first git project!
